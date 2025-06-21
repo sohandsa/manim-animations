@@ -1,0 +1,9 @@
+[project]
+name = "manim-animations"
+version = "0.1.0"
+description = "Just a place to try out dumb animations"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "manim>=0.19.0",
+]
